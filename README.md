@@ -1,4 +1,4 @@
-# mnist_ann_model
+# MNIST_ANN_Model
 This is a simple Artificial  Neural Network model train on MNIST data using TensorFlow/Keras
 ## Model Summary
 - Input Layer : 784 neurons 
